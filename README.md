@@ -25,7 +25,7 @@ Instale my-project com npm
 ## Demonstração
 
 
-Para executar o projeto execute 
+Para executar o projeto 
 ```bash
   npm run start
  
